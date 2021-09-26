@@ -1,0 +1,2 @@
+# Inheritance
+🌿 exercise of inheritance
